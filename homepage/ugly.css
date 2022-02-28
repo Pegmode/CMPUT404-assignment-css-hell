@@ -1,0 +1,32 @@
+
+body {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-image: url(kraftworkJP__BG.gif);
+    color: white;
+}
+
+
+.header{
+    background: rgb(4,4,4);
+background: linear-gradient(90deg, rgba(4,4,4,1) 0%, rgba(230,120,120,1) 42%, rgba(254,67,26,1) 69%, rgba(0,0,0,1) 100%);
+    overflow: hidden;
+    margin: 0;
+    padding: 30pt;
+    color:  black;
+
+}
+
+.content{
+    float: left;
+    width: 70%;
+    height: 100%
+}
+
+.navbar{
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    float: left;
+}
