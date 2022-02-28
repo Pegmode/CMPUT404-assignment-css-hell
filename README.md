@@ -22,3 +22,14 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+## Part I
+### What I changed in html
+#### Doc 1
+- removed original css
+- removed signature and cover image
+- #### Doc 2
+- removed original css
+- removed publisher stamp and cover image
+- - #### Doc 3
+- removed original css
+- removed cover image
